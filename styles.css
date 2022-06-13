@@ -28,11 +28,11 @@ body {
 
 .component-img {
     border-radius: 15px 15px 0px 0px;
-    width: 300px;
+    width: 400px;
 }
 
 .info-cont {
-    margin: 0px 30px;
+    margin: 0px 40px;
 }
 
 .plan-cont {
@@ -51,7 +51,7 @@ body {
 }
 
 .price-cont img {
-    width: 30px;
+    width: 40px;
     margin: 0px 15px 0px 0px;
 }
 
@@ -66,13 +66,13 @@ body {
 
 h1 {
     font-weight: 900;
-    font-size: 19px;
+    font-size: 25px;
     margin-top: 25px;
 }
 
 p {
     font-weight: 500;
-    font-size: 11px;
+    font-size: 16px;
     color: hsl(224, 23%, 55%);
     line-height: 1.5;
 }
@@ -84,7 +84,7 @@ button {
     margin: 15px 0px;
     padding: 10px 0px;
     width: 100%;
-    font-size: 10px;
+    font-size: 16px;
     font-weight: 700;
     font-family: 'Red Hat Display', sans-serif;
     border-radius: 7px;
@@ -106,7 +106,7 @@ button:hover {
 }
 
 .cancel {
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 
 .cancel:hover {
